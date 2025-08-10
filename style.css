@@ -206,4 +206,11 @@ body {
     .main{
         width: 80vw;
     }
+    .sec4 div{
+        img{
+        display: block;
+        cursor: pointer;
+        left:90%;
+        }
+}
 }
