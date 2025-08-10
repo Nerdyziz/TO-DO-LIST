@@ -202,11 +202,14 @@ body {
   color: white;
 }
 
-@media (max-width:780px){
+@media (max-width:1200px){
     .main{
         width: 80vw;
     }
-    .sec4 div{
+   
+}
+@media (max-width:780px){
+     .sec4 div{
         img{
         display: block;
         cursor: pointer;
